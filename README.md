@@ -124,4 +124,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 Feel free to fork, contribute, or raise issues if you have any questions or suggestions regarding the tests or project implementation!
 
+Here is a link to the youtube video where I describe the project - https://www.youtube.com/watch?v=59lyQR3FDcU&t=19s
+
 Enjoy testing!
